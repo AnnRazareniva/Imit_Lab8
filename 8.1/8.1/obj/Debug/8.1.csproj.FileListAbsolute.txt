@@ -1,0 +1,10 @@
+C:\Users\Ann\Desktop\работа\8.1\8.1\bin\Debug\8.1.exe.config
+C:\Users\Ann\Desktop\работа\8.1\8.1\bin\Debug\8.1.exe
+C:\Users\Ann\Desktop\работа\8.1\8.1\bin\Debug\8.1.pdb
+C:\Users\Ann\Desktop\работа\8.1\8.1\obj\Debug\8.1.csproj.AssemblyReference.cache
+C:\Users\Ann\Desktop\работа\8.1\8.1\obj\Debug\_8._1.Form1.resources
+C:\Users\Ann\Desktop\работа\8.1\8.1\obj\Debug\_8._1.Properties.Resources.resources
+C:\Users\Ann\Desktop\работа\8.1\8.1\obj\Debug\8.1.csproj.GenerateResource.cache
+C:\Users\Ann\Desktop\работа\8.1\8.1\obj\Debug\8.1.csproj.CoreCompileInputs.cache
+C:\Users\Ann\Desktop\работа\8.1\8.1\obj\Debug\8.1.exe
+C:\Users\Ann\Desktop\работа\8.1\8.1\obj\Debug\8.1.pdb
